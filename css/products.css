@@ -31,6 +31,7 @@
     background-color: white;
     box-shadow: 0 0 5px 0 #ccc;
     z-index: 4;
+    position: static;
   }
   
   .navigation ul {
@@ -81,7 +82,7 @@
   }
   
   .sidebar {
-    position: fixed;
+   
     top: 110px;
     left: 0;
     bottom: 0;
@@ -89,6 +90,7 @@
     border-right: 2px solid #eee;
     padding: 10px 30px;
     overflow: auto;
+    position: static;
   }
   
   .filter-type label {
@@ -186,4 +188,18 @@
     text-decoration: none;
     color: black;
     font-size: small;
+}
+.add-to-cart{
+  margin-left: 50px;
+  border-radius: 20px;
+  color: black;
+  background-color: orangered;
+border: orangered;
+font-size: larger;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.add-to-cart:hover{
+  color: orangered;
+  background-color: #eee;
 }

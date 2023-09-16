@@ -1,0 +1,213 @@
+}
+.bi-person-fill{
+    font-size: 25px;
+    cursor: pointer;
+}
+.bi-bag-heart-fill{
+    font-size: 25px;
+    cursor: pointer;
+}
+.bi-heart{
+    font-size: 25px;
+    cursor: pointer;
+}
+.form{
+    gap: 30px;
+}
+.search{
+    border-radius: 20px ;
+}
+.heading{
+    background-color: black;
+    color: aliceblue;
+    height: 20px;
+    font-size:medium;
+    border-radius: 20px;
+}
+.navbar-brand{
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navi ul li{
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    text-align: center;
+    margin-right: 50px;
+    
+
+}
+.set{
+    margin-left: 400px;
+}
+.dropdown{
+    width: 50%;
+}
+.Policy h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+#footer {
+    color: rgb(226, 231, 226);
+    font-size: 14px;
+    background: #eeeef5;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    background-color: black;
+  }
+  
+  #footer .footer-top {
+    padding: 60px 0 30px 0;
+    background: black;
+  
+  }
+  
+  #footer .footer-top .footer-contact {
+    margin-bottom: 30px;
+  }
+  
+  #footer .footer-top .footer-contact h3 {
+    font-size: 28px;
+    margin: 0 0 10px 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 700;
+    color: rgb(235, 245, 235);
+  }
+  
+  #footer .footer-top .footer-contact p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 0;
+    font-family: "Raleway", sans-serif;
+    color: #777777;
+  }
+  
+  #footer .footer-top h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(224, 231, 224);
+    position: relative;
+    padding-bottom: 12px;
+  }
+  
+  #footer .footer-top .footer-links {
+    margin-bottom: 30px;
+  }
+  
+  #footer .footer-top .footer-links ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #footer .footer-top .footer-links ul i {
+    padding-right: 2px;
+    color: rgb(236, 240, 231);
+    font-size: 18px;
+    line-height: 1;
+  }
+  
+  #footer .footer-top .footer-links ul li {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  #footer .footer-top .footer-links ul li:first-child {
+    padding-top: 0;
+  }
+  
+  #footer .footer-top .footer-links ul a {
+    color: rgb(249, 252, 246);
+    transition: 0.3s;
+    display: inline-block;
+    line-height: 1;
+  }
+  
+  #footer .footer-top .footer-links ul a:hover {
+    text-decoration: none;
+    color: rgb(244, 248, 240);
+  }
+  
+  #footer .footer-newsletter {
+    font-size: 15px;
+  }
+  
+  #footer .footer-newsletter h4 {
+    font-size: 16px;
+    font-weight: bold;
+    color: #444444;
+    position: relative;
+    padding-bottom: 12px;
+  }
+  
+  #footer .footer-newsletter form {
+    margin-top: 30px;
+    background: #fff;
+    padding: 6px 10px;
+    position: relative;
+    border-radius: 50px;
+    text-align: left;
+    border: 1px solid #b9b9fa;
+  }
+  
+  #footer .footer-newsletter form input[type=email] {
+    border: 0;
+    padding: 4px 8px;
+    width: calc(100% - 100px);
+  }
+  
+  #footer .footer-newsletter form input[type=submit] {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    bottom: -1px;
+    border: 0;
+    background: none;
+    font-size: 16px;
+    padding: 0 20px;
+    background: rgb(244, 252, 244);
+    color: rgb(6, 8, 4);
+    transition: 0.3s;
+    border-radius: 50px;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  #footer .footer-newsletter form input[type=submit]:hover {
+    background: rgb(238, 240, 235);
+  }
+  
+  #footer .credits {
+    padding-top: 5px;
+    font-size: 13px;
+    color: rgb(0, 2, 128);
+  }
+  
+  #footer .credits a {
+    transition: 0.3s;
+  }
+  
+  #footer .social-links a {
+    font-size: 18px;
+    display: inline-block;
+    background: #deddec;
+    color: rgb(8, 8, 8);
+    line-height: 1;
+    padding: 8px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    margin-left: 30px;
+    text-align: center;
+    width: 36px;
+    height: 36px;
+    transition: 0.3s;
+  }
+  
+  #footer .social-links a:hover {
+    background: rgb(0, 1, 8);
+    color: #fff;
+    text-decoration: none;
+  }
